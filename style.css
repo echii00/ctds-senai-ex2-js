@@ -1,0 +1,12 @@
+body ul  li{
+    text-align: center;
+  list-style-type: none;
+}
+
+body{
+    text-align: center;
+}
+
+h1{
+    background-color: cadetblue;
+}
